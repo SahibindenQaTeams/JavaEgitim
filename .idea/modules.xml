@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayInLoop/ArrayInLoop.iml" filepath="$PROJECT_DIR$/ArrayInLoop/ArrayInLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarpimTablosuOrnegi/CarpimTablosuOrnegi.iml" filepath="$PROJECT_DIR$/CarpimTablosuOrnegi/CarpimTablosuOrnegi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaireOrnekHesaplama/DaireOrnekHesaplama.iml" filepath="$PROJECT_DIR$/DaireOrnekHesaplama/DaireOrnekHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Degiskenler/Degiskenler.iml" filepath="$PROJECT_DIR$/Degiskenler/Degiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DongulerdeBreakveContinue/DongulerdeBreakveContinue.iml" filepath="$PROJECT_DIR$/DongulerdeBreakveContinue/DongulerdeBreakveContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FiyatHesaplama/FiyatHesaplama.iml" filepath="$PROJECT_DIR$/FiyatHesaplama/FiyatHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElseStatement/IfElseStatement.iml" filepath="$PROJECT_DIR$/IfElseStatement/IfElseStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KonsoldanVeriAlma/KonsoldanVeriAlma.iml" filepath="$PROJECT_DIR$/KonsoldanVeriAlma/KonsoldanVeriAlma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathSinifi/MathSinifi.iml" filepath="$PROJECT_DIR$/MathSinifi/MathSinifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrnekUygulama/OrnekUygulama.iml" filepath="$PROJECT_DIR$/OrnekUygulama/OrnekUygulama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintAndPrinln/PrintAndPrinln.iml" filepath="$PROJECT_DIR$/PrintAndPrinln/PrintAndPrinln.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomSinifi/RandomSinifi.iml" filepath="$PROJECT_DIR$/RandomSinifi/RandomSinifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringSinifi/StringSinifi.iml" filepath="$PROJECT_DIR$/StringSinifi/StringSinifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCaseStatement/SwitchCaseStatement.iml" filepath="$PROJECT_DIR$/SwitchCaseStatement/SwitchCaseStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemelOperatorler/TemelOperatorler.iml" filepath="$PROJECT_DIR$/TemelOperatorler/TemelOperatorler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeCastingIslemleri/TypeCastingIslemleri.iml" filepath="$PROJECT_DIR$/TypeCastingIslemleri/TypeCastingIslemleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
+    </modules>
+  </component>
+</project>
